@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Ashuj56!
 
-I'm a passionate **Full Stack Web Developer** and **Data Science** and **Machine Learning** enthusiast, always eager to learn and explore new technologies.
+I'm a passionate **Full Stack Web Developer** , **Data Science** and **Machine Learning** enthusiast, always eager to learn and explore new technologies.
 
 - 👀 Interests: Full Stack Web Development | Data Science
 - 🌱 Currently Learning: Diving deep into Data Science, enhancing my web development skills, and exploring how both fields can come together for innovative solutions.
